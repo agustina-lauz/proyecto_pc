@@ -1,0 +1,20 @@
+[
+    {
+        "username": "Juan",
+        "apellido": "Perez",
+        "email": "hola@gmail.com",
+        "password": "123456"
+    },
+    {
+        "username": "Juan",
+        "lastname": "Perez",
+        "email": "pepe@um.edu.uy",
+        "password": "123456"
+    },
+    {
+        "username": "Juan",
+        "lastname": "Perez",
+        "email": "pepe@um.edu.uy",
+        "password": "123456"
+    }
+]
