@@ -1,0 +1,15 @@
+### MANUAL DE USUARIO ###
+
+- Abrir este proyecto con VSC (Visual Studio Code)
+
+- Instalar extension Live Server
+
+- Configurar Google Chrome como navegador por defecto
+
+- Abrir archivo HTML haciendo click derecho y seleccionar 'Open with Live Server'.
+
+- Una vez abierto el formulario en el navegador, hacer click derecho y seleccionar 'Inspecionar'.
+
+- Abierta la consola de depuración de chrome, seleccionar la pestaña 'Consola'.
+
+- Agregar los datos en el forumlario y hacer click en el botón de registro. Los logs del proceso se podrán visualizar allí.

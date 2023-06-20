@@ -70,10 +70,12 @@ function addUser() {
 
 document.addEventListener("DOMContentLoaded", function (e) {
   loadUsers();
+  console.log(usersArray);  
   submit.addEventListener("click", function (e) {
     e.preventDefault();
     if (validateData() && !validateUser(email.value)) {
       addUser();
+      console.log(usersArray);
       alert("Usuario registrado con éxito");
     }
   });
